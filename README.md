@@ -2,7 +2,7 @@
 
 A comprehensive web application that uses artificial intelligence to provide personalized style recommendations including color analysis, body type assessment, jewelry suggestions, makeup guidance, and natural beauty remedies.
 
-Live Preview : https://style-me-6w49.vercel.app/
+**Live Preview** : https://style-me-6w49.vercel.app/
 
 ## 🌟 Features
 
